@@ -32,6 +32,6 @@ def add(num1, num2):
 
 [Starter File](hello.py)
 
-Using python's `print()` method write a program that outputs 'Hello, World!'
+Using python's `print()` function write a program that outputs 'Hello, World!'
 
 *To run the code type `python3 hello.py` in your terminal*
