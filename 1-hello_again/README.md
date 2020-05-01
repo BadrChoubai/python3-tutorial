@@ -29,7 +29,7 @@ my_tuple[0] = 'boo' # This will throw an error
 ---
 
 ### A Good Second Program
-[Starter File](wet_feet.py)
+[Starter File](mutate_tuple.py)
 
 Write a function `mutate_tuple` that takes a `tuple` of `('foo', 'bar', 'baz')` and changes the first element of the tuple to `boo`
 
