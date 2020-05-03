@@ -45,4 +45,4 @@ def add(x, y):
 
 Change the ouput of the `hello()` function so that it outputs `Hello, World!`
 
-*To run the code type `python3 hello.py` in your terminal*
+*To test your solution type `python3 test_hello.py` in your terminal*
