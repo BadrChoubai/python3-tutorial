@@ -2,26 +2,37 @@
 
 ## The Basics
 
-### Types
+### Python's built-in types
 ```python
-# str -> 'str'
-# int -> 0
+# str() -> ''
+# int() -> 0
+# float() -> 0.0 
+# bool() -> False or True (0 or 1)
 ```
 
+#### Type Systems in programming languages
+
+Programming languages can have either static types or dynamic types. Python is a dynamically typed language meaning that the type of a variable is allowed to change over time; `age = '22'` could later on become `age = 22`, it could also be changed to `age = False`. Weird Right?
+
 ### Variables
+
+Variables in Python are nothing but reserved memory locations to store values.
+
 ```python
-name = 'John Doe'
-age = 20
+name = 'john doe' # str variable assignment
+miles_travelled = 22.54 # = float variable assignment
+meeting_in_session = True # bool variable assignment
 ```
 
 ### Functions
 
-Functions in python allow you to write reusable pieces of code, this is useful for when you need to do one thing, multiple times.
+Functions are organized, reusable pieces of code that are used to perform a single, related action.
+
+Functions in Python are denoted by the `def` keyword.
 
 ```python
-# The `def` keyword denotes a function 
-def add(num1, num2):
-    return num1 + num2
+def add(x, y):
+    return x + y
 ```
 
 *Easter Egg: The Zen of Python; Copy & Paste this in your terminal ```python3 -m this```*
@@ -32,6 +43,6 @@ def add(num1, num2):
 
 [Starter File](hello.py)
 
-Using python's `print()` function write a program that outputs 'Hello, World!'
+Change the ouput of the `hello()` function so that it outputs `Hello, World!`
 
-*To run the code type `python3 hello.py` in your terminal*
+*To test your solution type `python3 test_hello.py` in your terminal*
