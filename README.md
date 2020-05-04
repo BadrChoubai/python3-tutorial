@@ -9,7 +9,7 @@ An introduction to Python 3 and programming.
 ## Table of Contents
 
 - [1. Hello, Python!](0-hello_world/README.md)
-  - [Python's Built-In Types](0-hello_world/README.md#pythons-built-in-types)
+  - [Python's Built-In Types](0-hello_world/README.md#pythons-four-basic-types)
     - [Aside: Type Systems in Programming Languages](0-hello_world/README.md#type-systems-in-programming-languages)
   - [Variables](0-hello_world/README.md#variables)
   - [Functions](0-hello_world/README.md#functions)
