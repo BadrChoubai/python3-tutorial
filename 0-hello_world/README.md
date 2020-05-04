@@ -39,9 +39,8 @@ continue = True
 
 Functions are organized, reusable pieces of code that are used to perform a single, related action.
 
-Functions in Python are denoted by the `def` keyword.
-
 ```python
+# functions in Python are denoted by the `def` keyword.
 def add(x, y):
     return x + y
 ```
