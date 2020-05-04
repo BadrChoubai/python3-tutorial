@@ -1,11 +1,16 @@
 # Hello, Python! - The Basics
 
-## Python's Four Basic Types
+## Python's Basic Datatypes
 
 ```python
-# str() -> ''
+# Numbers
 # int() -> 0
 # float() -> 0.0
+
+# String
+# str() -> ''
+
+# Boolean
 # bool() -> False or True (0 or 1)
 ```
 
