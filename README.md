@@ -18,7 +18,12 @@ An introduction to Python 3 and programming.
   - [Numbers](1-basic_types/README.md#numbers)
   - [Strings](1-basic_types/README.md#strings)
   - [Booleans](1-basic_types/README.md#booleans)
-  - [Python's `type()` Method](1-basic_types/README.md#pythons-type-method))
+  - [Python's `type()` Method](1-basic_types/README.md#pythons-type-method)
+- [3. List and Tuples in Python](2-lists_and_tuples/README.md)
+  - [Lists](2-lists_and_tuples/README.md#lists)
+  - [Tuples](2-lists_and_tuples/README.md#tuples)
+    - [Mutability and Immutability in Python](2-lists_and_tuples/README.md#mutability-and-immutability-in-python)
+  - [Python `isinstance()` method](2-lists_and_tuples/README.md#python-isinstance-method)
 
 ## Contributors
 
