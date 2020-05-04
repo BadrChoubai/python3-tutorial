@@ -2,7 +2,7 @@
 
 ## The Basics
 
-### Python's built-in types
+### Python's Built-In Types
 ```python
 # str() -> ''
 # int() -> 0
@@ -10,9 +10,9 @@
 # bool() -> False or True (0 or 1)
 ```
 
-#### Type Systems in programming languages
+#### Aside: Type Systems in Programming Languages
 
-Programming languages can have either static types or dynamic types. Python is a dynamically typed language meaning that the type of a variable is allowed to change over time; `age = '22'` could later on become `age = 22`, it could also be changed to `age = False`. Weird Right?
+Programming languages can have either static types or dynamic types. Python is a dynamically typed language meaning that the type of a variable is allowed to change over time; `age = '22'` could later on become `age = 22`, it could also be changed to `age = False`.
 
 ### Variables
 
